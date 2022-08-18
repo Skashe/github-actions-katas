@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "Razer Blade 2020",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/fQOnHXF2f6LzWXn4TTGkBRzIn9soG3HemJBPHRYWZc6P0JhHuY",
+  "gitHubUrl": "https://github.com/Skashe/github-actions-katas",
+  "workFolder": "_work"
+}
